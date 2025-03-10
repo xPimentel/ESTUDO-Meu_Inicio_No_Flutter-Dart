@@ -6,7 +6,11 @@
 After that, I tested a basic code to perform a "Hello World". Below are the 2 websites that helped me with the step-by-step guide to do this. </b></blockquote>
 
 <blockquote><b> Nesta pequena intância, pequeno projeto de início, consegui entender como instalar o programa do flutter, e inicializar com a aplicação base que ele provém de sua prípria biblioteca.
-Após isso eu teste um código básico para realizar um "Hello World". Abaixo segue os 2 sites que me ajudaram com o passo-a-passo para realizar isso. </b></blockquote>
+Após isso eu teste um código básico para realizar um "Hello World". Abaixo segue os 3 sites que me ajudaram com o passo-a-passo para realizar isso. </b></blockquote>
+
+<ul> https://www.alura.com.br/artigos/como-criar-um-projeto-com-flutter-hello-world?srsltid=AfmBOop5G1CCLUhnb0u6AmpjtFowjkfEPszp3TdwsQvMnXSgibpWkVzo </ul> 
+<ul> https://dev.to/nahtanpng/explorando-o-flutter-um-guia-basico-para-iniciantes-55l6#emulador </ul>
+<ul> https://docs.flutter.dev/get-started/install/windows/mobile </ul>
 
 <h4> Images to project | Imagens do projeto </h4>
 
