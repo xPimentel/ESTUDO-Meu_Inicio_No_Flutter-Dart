@@ -1,12 +1,12 @@
-# MY START IN FLUTTER/DART | MEU COMEÇO EM FLUTTER/DART
+# MEU COMEÇO EM FLUTTER/DART | MY START IN FLUTTER/DART 
 
 <h3>Introduction / Introdução</h3>
 
-<blockquote><b> In this small instance, a small project to start with, I was able to understand how to install the Flutter program and start it with the base application that comes from its own library.
-After that, I tested a basic code to perform a "Hello World". Below are the 2 websites that helped me with the step-by-step guide to do this. </b></blockquote>
-
 <blockquote><b> Nesta pequena intância, pequeno projeto de início, consegui entender como instalar o programa do flutter, e inicializar com a aplicação base que ele provém de sua prípria biblioteca.
 Após isso eu teste um código básico para realizar um "Hello World". Abaixo segue os 3 sites que me ajudaram com o passo-a-passo para realizar isso. </b></blockquote>
+
+<blockquote><b> In this small instance, a small project to start with, I was able to understand how to install the Flutter program and start it with the base application that comes from its own library.
+After that, I tested a basic code to perform a "Hello World". Below are the 2 websites that helped me with the step-by-step guide to do this. </b></blockquote>
 
 <ul> https://www.alura.com.br/artigos/como-criar-um-projeto-com-flutter-hello-world?srsltid=AfmBOop5G1CCLUhnb0u6AmpjtFowjkfEPszp3TdwsQvMnXSgibpWkVzo </ul> 
 <ul> https://dev.to/nahtanpng/explorando-o-flutter-um-guia-basico-para-iniciantes-55l6#emulador </ul>
